@@ -1,0 +1,15 @@
+Django==4.1.7
+djangorestframework==3.14.0
+drf_yasg==1.21.5
+imutils==0.5.4
+matplotlib==3.7.0
+numpy==1.23.5
+numpy==1.24.2
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+Pillow==9.4.0
+Pillow==9.5.0
+pyrtmp==0.2.0
+pytesseract==0.3.10
+ultralytics==8.0.93
+websockets==10.4
